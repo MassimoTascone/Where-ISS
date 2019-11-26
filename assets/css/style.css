@@ -3,6 +3,8 @@ body {
     background-color:#292829;
     color:white;
     text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
 }
 #mapid {
     height: 400px;
@@ -10,7 +12,6 @@ body {
 }
 
 h1 {
-    font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 70px;
 }
 
