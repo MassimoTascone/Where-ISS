@@ -23,6 +23,7 @@ const getISS = async()=>{
     const {latitude, longitude} = data;
 
     marker.setLatLng([latitude, longitude]);
+    mymap.setView([latitude, longitude]);
     document.getElementById('lat').textContent = latitude;
     document.getElementById('lon').textContent = longitude;
 }

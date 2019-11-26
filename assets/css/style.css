@@ -1,6 +1,6 @@
 /* CSS for ISS */
 body {
-    background-color: rgb(11, 24, 36);
+    background-color:#292829;
     color:white;
     text-align: center;
 }
@@ -13,10 +13,10 @@ h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 70px;
 }
-footer {
-    ;
-}
 
+.pos {
+    color:#F35B5D;
+}
 
 
 p {
